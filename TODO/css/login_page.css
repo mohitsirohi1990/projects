@@ -79,6 +79,15 @@ body {
 	text-decoration: underline;
 	color: #666;
 }
+.remember{
+	text-decoration: underline;
+	color: #888;
+}
+.remember:hover,
+.remember:focus{
+	text-decoration: none;
+	color: #666;
+}
 
 .btn-register {
 	background-color: #1CB94E;
